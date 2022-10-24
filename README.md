@@ -10,3 +10,6 @@ Foi utilizado no projeto tecnologias como:
 * Entity Framework Core  
 * SQL Server Express  
 
+  
+ 
+![Tela Principal](https://github.com/filipepoeta/ProjetoMVC/blob/main/wwwroot/ImagemExemplo.png)
